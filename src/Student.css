@@ -1,0 +1,11 @@
+.student-container{
+padding: 5px;
+margin: 7px;
+background-color:rgb(201, 60, 201);
+height: 100px;
+width: 400px;
+color:black;
+border:1.5px solid black;
+box-shadow: 2px 1px 1px 1.5px gray;
+border-radius: 20px;
+}
