@@ -1,6 +1,6 @@
 import "./Student.css";
 
-function Student({studentName,fruit}){          //in curly brackates only without props...
+function Student({studentName,fruit}){          
     return(
         <div className="student-container">
             <h2>Hello {studentName}</h2>         
